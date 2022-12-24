@@ -1,0 +1,110 @@
+.layout-vay-tin-chap {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  transition: all 0.2s linear;
+
+  .layout-content {
+    position: relative;
+    width: inherit;
+    // height: inherit;
+    .container-img-bg-center {
+      position: absolute;
+      width: 30%;
+      z-index: -10;
+      justify-content: center;
+      top: 15vh;
+      left: 40vw;
+      .img-bg-center {
+        width: 100%;
+        opacity: 0.6;
+      }
+    }
+    .container-img-bg-1 {
+      width: 20%;
+      position: absolute;
+      top: 0;
+      transform: translateY(-20%);
+      right: 5%;
+      z-index: -11;
+      .img-bg-1 {
+        width: 100%;
+      }
+    }
+    .container-img-bg-2 {
+      width: 30%;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      z-index: -11;
+      .img-bg-2 {
+        width: 100%;
+      }
+    }
+    .container-title-vay-tin-chap {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      padding: 0 1rem;
+      justify-content: space-between;
+      .container-item {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        .box {
+          width: fit-content;
+          padding: 10px 10px;
+          background: white;
+          // position: absolute;
+          transition: transform .5s linear;
+
+          &:hover {
+            background: linear-gradient(45deg, #0f2027, #203a43, #2c5364);
+            transform: translateY(-5px);
+            .title {
+              color: white;
+            }
+          }
+          .title {
+            font-size: 1.5rem;
+            margin: 0;
+          }
+        }
+      }
+
+      .container-right {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        align-items: flex-end;
+      }
+    }
+  }
+}
+
+.visible-cnt-item {
+  visibility: visible;
+  // clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+
+}
+.hidden-cnt-item {
+  visibility: hidden;
+  // clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
+
+}
+
+.styleClickSelectItem {
+  background: linear-gradient(45deg, #0f2027, #203a43, #2c5364) !important;
+  .title {
+    color: white;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .layout-vay-tin-chap
+    .layout-content
+    .container-title-vay-tin-chap
+    .container-right {
+    align-items: flex-start;
+  }
+}

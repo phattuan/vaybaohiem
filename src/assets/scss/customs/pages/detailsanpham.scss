@@ -1,0 +1,63 @@
+.layout-see-more-san-pham {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+  padding: 50px;
+  align-items: center;
+  z-index: -5;
+  // background: #0f2027; /* fallback for old browsers */
+  // background: -webkit-linear-gradient(
+  //   135deg,
+  //   #2c5364,
+  //   #203a43,
+  //   #0f2027
+  // ); /* Chrome 10-25, Safari 5.1-6 */
+  // background: linear-gradient(
+  //   135deg,
+  //   #2c5364,
+  //   #203a43,
+  //   #0f2027
+  // ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  .mark-bg {
+    position: absolute;
+    z-index: -10;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    min-height: 100%;
+    transform: translateX(-50px);
+  }
+  .border-img-detail-san-pham {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    object-fit: center;
+    box-shadow: 5px 5px 20px black;
+    img {
+      width: 100%;
+    }
+  }
+  .container-content-san-pham {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    .item-content-detail-san-pham {
+      font-size: 1rem;
+      color: white;
+      font-family: "Playfair Display", serif;
+
+      .list-style-pen {
+        color: greenyellow;
+        margin-right: 10px;
+        font-size: 1rem;
+        transform: rotateY(180deg);
+      }
+    }
+  }
+}

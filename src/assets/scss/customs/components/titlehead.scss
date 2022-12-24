@@ -1,0 +1,43 @@
+.container-title {
+  position: relative;
+  background: white;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  width: fit-content;
+  padding: 5px 15px;
+  text-align: center;
+  align-items: center;
+  margin: 50px auto;
+  height: fit-content;
+
+  &::before {
+    content: "";
+    width: 500px;
+    height: .5px;
+    background: black;
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    z-index: -10;
+    
+}
+&::after {
+    content: "";
+    width: 500px;
+    height: .5px;
+    background: black;
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    z-index: -10;
+  }
+
+  .title {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #464646;
+    text-shadow: 0 0 3px #464646;
+    text-transform: uppercase;
+  }
+}

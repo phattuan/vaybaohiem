@@ -1,0 +1,23 @@
+// ====== import variables ======= 
+@import './variables';
+
+// ======= import pages ========
+@import './customs//pages//home.scss';
+@import './customs/pages/vaytinchap.scss';
+@import './customs/pages/vaythechap.scss';
+@import './customs/pages/contentitemvaythechap.scss';
+@import './customs/pages/homebaohiem.scss';
+@import './customs/pages/detailbaohiem.scss';
+@import './customs/pages/sanpham.scss';
+@import './customs/pages/detailsanpham.scss';
+@import './customs/pages/vechungtoi.scss';
+@import './customs/pages/lienhe.scss';
+
+//===== import components ======= 
+@import './customs/components/banner.scss';
+@import './customs//components/header.scss';
+@import './customs/components/logo.scss';
+@import './customs/components/titlehead.scss';
+@import './customs/components/contentitem.scss';
+@import './customs/components/itemcontentvaythechap.scss';
+

@@ -1,0 +1,35 @@
+.container-content-item {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 30vw;
+  height: fit-content;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 10px rgba(0, 191, 255, 0.3);
+  background: linear-gradient(
+    135deg,
+    rgba(191, 245, 255, 0.5),
+    rgba(255, 175, 188, 0.5)
+  );
+  padding: 1.5rem;
+
+  .content-item {
+    margin: 0;
+    color: black;
+    font-family: "Lobster", cursive;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+  #close-data-item{
+    color: black;
+    font-size: 1rem;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    &:hover{
+      color: red;
+    }
+  }
+}
+
+

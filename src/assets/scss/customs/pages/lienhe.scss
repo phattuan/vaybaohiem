@@ -1,0 +1,40 @@
+.layout-lien-he {
+  width: 100%;
+  //   background: black;
+  display: flex;
+  flex-direction: row;
+  //   justify-content: center;
+  gap: 2rem;
+  margin-top: 100px;
+  padding: 0 1rem 2rem 1rem;
+  .column {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    .content {
+    //   font-family: "Playfair Display", serif;
+      font-family: "Lobster", cursive;
+      color: #00bfff;
+      font-weight: 600;
+      transition: transform 0.2s linear;
+      .icon-email {
+        color: deeppink;
+      }
+      .icon-phone {
+        color: green;
+      }
+      .text-strong {
+        font-family: "Lobster", cursive;
+        margin-left: 10px;
+        margin-right: 10px;
+        color: black;
+      }
+
+      &:hover {
+        transform: scale(1.02);
+      }
+    }
+  }
+}

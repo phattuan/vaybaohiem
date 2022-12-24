@@ -1,0 +1,110 @@
+{
+  "vayTheChapSoDoSoHong": {
+    "loiIch": [
+      "Khách hàng được vay thế chấp sổ đỏ, sổ hồng với lãi suất thấp nhất trong hệ thống ngân hàng.",
+      "Hỗ trợ hạn mức lên đến 20 tỷ với thời gian vay đến 30 năm.",
+      "Chính sách nhận tài sản vượt trội: thuộc diện quy hoạch, đất nông nghiệp,nhà diện tích nhỏ, hẻm nhỏ",
+      "Chính sách trả góp lãi linh hoạt theo yêu cầu của quý khách hàng.",
+      "Tiếp nhận tư vấn và xử lý trong 15 phút, Cán bộ tín dụng ngân hàng hỗ trợ tận nhà."
+    ],
+    "dieuKienVayVon": [
+      "Khách hàng từ 18 tuổi trở lên, và không vượt quá 80 tuổi tại thời điểm hết hạn khoản vay",
+      "Có thu nhập ổn định, đủ khả năng trả nợ cho ngân hàng"
+    ],
+    "hoSoVayVon": [
+      "CMND / Hộ Khẩu / Hộ chiếu",
+      "Hồ sơ chứng minh mục đích sử dụng vốn ( Nếu có)"
+    ]
+  },
+  "vayTheChapMuaNha": {
+    "loiIch": [
+      "Khách hàng được vay thế chấp nhà, vay mua nhà, mua bất động sản với lãi suất ưu đãi nhất hệ thống",
+      "Khách hàng được hỗ trợ hạn mức lên đến 20 tỷ, với thời gian vay đến 35 năm",
+      "Hỗ trợ vay thế chấp nhà diện tích nhỏ dưới 30 m2, hẻm nhỏ dưới 2 mét vẫn có thể vay tiền thế chấp",
+      "Khách hàng không bị phạt khi trả nợ trước hạn",
+      "Chính sách linh hoạt, được giải ngân ngay sau khi thẩm định tài sản"
+    ],
+    "dieuKienVayVon": [
+      "Khách hàng từ 18 tuổi trở lên và không vượt quá 80 tuổi tại thời điểm hết hạn khoản vay",
+      "Có thu nhập ổn định, đủ khả năng trả nợ cho ngân hàng"
+    ],
+    "hoSoVayVon": ["Giấy đề nghị vay vốn", "CMND / Hộ Khẩu / Hộ chiếu"]
+  },
+  "vayTheChapMuaOTo": {
+    "loiIch": [
+      "Khách hàng được vay thế chấp mua xe ô tô với lãi suất ưu đãi nhất.",
+      "Khách hàng được hỗ trợ tối đa 80% giá trị xe, với thời gian vay tối đa 8 năm.",
+      "Khách hàng không phải chứng minh nguồn thu, không bị phạt khi trả nợ trước hạn",
+      "Nhiều ưu đãi dành tặng cho khách hàng",
+      "Tiếp nhận tư vấn và xử lý trong 15 phút, Cán bộ tín dụng ngân hàng hỗ trợ tận nhà."
+    ],
+    "dieuKienVayVon": [
+      "Khách hàng từ 18 tuổi trở lên và không vượt quá 80 tuổi tại thời điểm hết hạn khoản vay",
+      "Có thu nhập ổn định, đủ khả năng trả nợ cho ngân hàng."
+    ],
+    "hoSoVayVon": [
+      "Giấy đề nghị vay vốn",
+      "CMND / Hộ Khẩu / Hộ chiếu",
+      "Hồ sơ chứng minh mục đích sử dụng vốn ( Nếu có)"
+    ]
+  },
+  "vayMuaCanHoChungCu": {
+    "loiIch": [
+      "Khách hàng được vay mua căn hộ chung cư với lãi suất ưu đãi nhất hệ thống. Thủ tục đơn giản, nhanh chóng",
+      "Khách hàng được hỗ trợ hạn mức lên đến 20 tỷ, với thời gian vay đến 35 năm",
+      "Phương thức trả nợ: trả gốc linh hoạt theo nhu cầu của từng khách hàng cụ thể: trả hàng tháng, trả hàng quý, hoặc trả 6 tháng một lần",
+      "Khách hàng không bị phạt khi trả nợ trước hạn, cũng như không cần chứng minh thu nhập",
+      "Miễn phí định giá sơ bộ và thẩm định",
+      "Được hỗ trợ giải ngân ngay sau khi thẩm định tài sản"
+    ],
+    "dieuKienVayVon": [
+      "Hỗ trợ khách hàng đang muốn có một căn hộ chung cư như mơ ước mà chưa có đủ tài chính. Gặp trở ngại bởi thủ tục rườm rà, phức tạp. Đang gặp rắc rối về nợ xấu, tài sản đảm bảo hoặc không chứng minh được nguồn thu nhập và muốn tìm ngân hàng cho vay xây, sửa nhà với lãi suất thấp nhất",
+      "Tiền giải ngân được thanh toán theo tiến độ đối với căn hộ chung cư chưa có sổ",
+      "Khách hàng từ 18 tuổi trở lên và không vượt quá 80 tuổi tại thời điểm hết hạn khoản vay",
+      "Có thu nhập ổn định, đủ khả năng trả nợ cho ngân hàng"
+    ],
+    "hoSoVayVon": [
+      "Giấy đề nghị vay vốn",
+      "CMND / Hộ Khẩu / Hộ chiếu",
+      "Hồ sơ về tài sản đảm bảo, sổ hồng (được hỗ trợ)"
+    ]
+  },
+  "vayXayDungSuaChuaNha": {
+    "loiIch": [
+      "Khách hàng được vay xây nhà, sửa nhà với lãi suất ưu đãi nhất hệ thống. Thủ tục đơn giản, nhanh gọn",
+      "Khách hàng được hỗ trợ hạn mức lên đến 20 tỷ, với thời gian vay lên đến 35 năm",
+      "Miễn phí định giá sơ bộ và thẩm định",
+      "Khách hàng không bị phạt khi trả nợ trước hạn. Không cần chứng minh thu nhập, phương án vay",
+      "Chính sách linh hoạt, được giải ngân ngay sau khi thẩm định tài sản"
+    ],
+    "dieuKienVayVon": [
+      "Hỗ trợ khách hàng đang cần tiền gấp, có nhu cầu vay ngân hàng xây nhà, sửa nhà nhưng chưa có đủ kinh phí. Gặp trở ngại bởi thủ tục rườm rà, phức tạp. Đang gặp rắc rối về nợ xấu, tài sản đảm bảo hoặc không chứng minh được nguồn thu nhập và muốn tìm ngân hàng cho vay xây, sửa nhà với lãi suất thấp nhất",
+      "Khách hàng từ 18 tuổi trở lên và không vượt quá 80 tuổi tại thời điểm hết hạn khoản vay",
+      "Có thu nhập ổn định, đủ khả năng trả nợ cho ngân hàng"
+    ],
+    "hoSoVayVon": [
+      "Giấy đề nghị vay vốn",
+      "CMND / Hộ Khẩu / Hộ chiếu",
+      "Bảng dự toán xây dựng ( nếu có )"
+    ]
+  },
+  "vayVonKinhDoanh": {
+    "loiIch": [
+      "Khách hàng là hộ kinh doanh, hoặc chủ doanh nghiệp được hỗ trợ vay vốn để bổ sung kinh doanh với lãi suất ưu đãi nhất hệ thống. Thủ tục vay đơn giản, nhanh gọn",
+      "Khách hàng được hỗ trợ hạn mức lên đến 20 tỷ, với thời gian vay lên đến 35 năm",
+      "Miễn phí định giá sơ bộ và thẩm định tài sản",
+      "Khách hàng không bị phạt khi trả nợ trước hạn. Không cần chứng minh thu nhập, phương án vay",
+      "Chính sách linh hoạt, được giải ngân ngay sau khi thẩm định tài sản"
+    ],
+    "dieuKienVayVon": [
+      "Hỗ trợ khách hàng đang có nhu cầu vay tiền để phục vụ cho hoạt động kinh doanh. Gặp trở ngại bởi thủ tục rườm rà, phức tạp. Đang gặp rắc rối về nợ xấu, tài sản đảm bảo hoặc không chứng minh được nguồn thu nhập và muốn tìm ngân hàng cho vay xây, sửa nhà với lãi suất thấp nhất",
+      "Khách hàng từ 18 tuổi trở lên và không vượt quá 80 tuổi tại thời điểm hết hạn khoản vay",
+      "Có nguồn thu ổn định, đủ khả năng trả nợ cho ngân hàng"
+    ],
+    "hoSoVayVon": [
+      "Giấy đề nghị vay vốn",
+      "CMND / Hộ Khẩu / Hộ chiếu",
+      "Giấy phép đăng ký kinh doanh ( nếu có )"
+    ]
+  }
+}
